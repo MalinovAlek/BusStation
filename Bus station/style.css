@@ -1,0 +1,29 @@
+#main2{
+   display: flex;
+   position: absolute;
+   top: 25%;
+   left: 45%;
+}
+li{
+    border: 1px solid black;
+    list-style-type:none;
+    width: 120px;
+    text-align: center;
+}
+
+#start2{
+position: absolute;
+top: 57%;
+}
+#both{
+display: flex;
+position: absolute;
+top: 40%;
+left: 11%;
+}
+#main5{
+    display: flex;
+    position: absolute;
+    top: 65%;
+    left: 41%;
+}
